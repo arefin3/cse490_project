@@ -1,0 +1,142 @@
+City,Region,Country,WaterPollution
+New York City,New York,United States of America,49.5049505
+"Washington, D.C.",District of Columbia,United States of America,49.10714286
+San Francisco,California,United States of America,43
+Berlin,,Germany,28.61271676
+Los Angeles,California,United States of America,61.29943503
+Bern,Canton of Bern,Switzerland,12.5
+Geneva,Canton of Geneva,Switzerland,17.37288136
+Zurich,Canton of Zurich,Switzerland,10.71428571
+Basel,,Switzerland,26.92307692
+London,England,United Kingdom,40.71637427
+Cairo,Cairo Governorate,Egypt,74.35064935
+Alexandria,Alexandria Governorate,Egypt,71.2962963
+Alexandria,Virginia,United States of America,46.15384615
+Paris,Ile-de-France,France,43.12169312
+Boston,Massachusetts,United States of America,32.91139241
+Toronto,Ontario,Canada,37.7994012
+Sao Paulo,Sao Paulo,Brazil,73.71794872
+Vilnius,,Lithuania,20.58823529
+Monaco,,Monaco,61.36363636
+Brussels,,Belgium,44.76190476
+Poznan,Greater Poland Voivodeship,Poland,50.42372881
+Tashkent,,Uzbekistan,49.16666667
+Warsaw,Masovian Voivodeship,Poland,36.01485149
+Modena,Emilia-Romagna,Italy,50
+Tours,,France,6.25
+Singapore,,Singapore,24.204947
+Montreal,Quebec,Canada,36.96319018
+Cambridge,England,United Kingdom,30.55555556
+Cologne,North Rhine-Westphalia,Germany,27.77777778
+Skopje,Greater Skopje,North Macedonia,45.26315789
+Gdynia,Pomeranian Voivodeship,Poland,48.61111111
+Szczecin,West Pomeranian Voivodeship,Poland,53.75
+Ljubljana,Ljubljana City Municipality,Slovenia,17.58241758
+Plovdiv,Plovdiv region,Bulgaria,36.29032258
+Sofia,Sofia City Province,Bulgaria,40.94339623
+Milan,Lombardy,Italy,39.49044586
+Trieste,Friuli-Venezia Giulia,Italy,29
+Lodz,Lodz Voivodeship,Poland,40.44117647
+Villeurbanne,,France,50
+Oslo,,Norway,14.17525773
+Bonn,North Rhine-Westphalia,Germany,22.5
+Katowice,Silesian Voivodeship,Poland,48.33333333
+Lisbon,Lisbon,Portugal,24.85632184
+Rzeszow,Podkarpackie Voivodeship,Poland,47.05882353
+Dubai,Emirate of Dubai,United Arab Emirates,39.84615385
+Padua,Veneto,Italy,50
+Bergamo,Lombardy,Italy,35
+Venice,Veneto,Italy,67.85714286
+Rennes,,France,35
+Lille,,France,35.52631579
+Moscow,,Russia,49.72527473
+Saint Petersburg,,Russia,54.8816568
+Heilbronn,Baden-Wurttemberg,Germany,0
+Saginaw,Michigan,United States of America,70
+Bialystok,Podlaskie Voivodeship,Poland,52.94117647
+Nowy Sacz,Lesser Poland Voivodeship,Poland,100
+Lausanne,Canton of Vaud,Switzerland,17.5
+Abakan,Republic of Khakassia,Russia,75
+Novosibirsk,Novosibirsk Oblast,Russia,54.05405405
+Yekaterinburg,Sverdlovsk Oblast,Russia,58.33333333
+Samara,Samara Oblast,Russia,51.5625
+Omsk,Omsk Oblast,Russia,48.52941176
+Kazan,Republic of Tatarstan,Russia,58.33333333
+Chelyabinsk,Chelyabinsk Oblast,Russia,70.3125
+Ufa,Bashkortostan,Russia,68.18181818
+Volgograd,Volgograd Oblast,Russia,59.375
+Perm,Perm Krai,Russia,50
+Krasnoyarsk,Krasnoyarsk Krai,Russia,49.21875
+Beijing,,People's Republic of China,70.78313253
+Vladivostok,Primorsky Krai,Russia,67.5
+San Antonio,Texas,United States of America,50.67567568
+Tomsk,Tomsk Oblast,Russia,51.78571429
+Tbilisi,,Georgia,49.34782609
+Maribor,Maribor City Municipality,Slovenia,18.75
+Celje,City Municipality of Celje,Slovenia,8.333333333
+Koper,City Municipality of Koper,Slovenia,0
+Aachen,North Rhine-Westphalia,Germany,17.85714286
+Nova Gorica,City Municipality of Nova Gorica,Slovenia,12.5
+Kranj,City Municipality of Kranj,Slovenia,12.5
+Stuttgart,Baden-Wurttemberg,Germany,24.28571429
+Biel/Bienne,Canton of Bern,Switzerland,31.25
+Karlsruhe,Baden-Wurttemberg,Germany,5.555555556
+Hamburg,,Germany,24.50980392
+Ahmedabad,Gujarat,India,66.9921875
+Salerno,Campania,Italy,58.33333333
+Prague,,Czech Republic,25.70621469
+Jamnagar,Gujarat,India,58.33333333
+Busto Arsizio,Lombardy,Italy,75
+Mumbai,Maharashtra,India,75.32537961
+Jerusalem,Jerusalem District,Israel,42.39130435
+Grenoble,,France,26.47058824
+Dortmund,North Rhine-Westphalia,Germany,15.625
+Ghent,Flemish Region,Belgium,27.67857143
+Chicago,Illinois,United States of America,53.62068966
+Como,Lombardy,Italy,40
+Montevideo,Montevideo Department,Uruguay,46.75324675
+Tolyatti,Samara Oblast,Russia,43.75
+Pittsburgh,Pennsylvania,United States of America,59.61538462
+Philadelphia,Pennsylvania,United States of America,55.64516129
+Kolkata,West Bengal,India,68.26923077
+Chennai,Tamil Nadu,India,73.07017544
+Delhi,,India,77.41679873
+Dhaka,Dhaka Division,Bangladesh,78.25342466
+Hyderabad,Telangana,India,70.10703364
+Islamabad,Islamabad Capital Territory,Pakistan,51.32743363
+Zagreb,,Croatia,26.59883721
+Genoa,Liguria,Italy,30
+Manila,Metro Manila,Philippines,83.7431694
+Quezon City,Metro Manila,Philippines,80.12820513
+Le Mans,,France,50
+Caloocan,Metro Manila,Philippines,83.33333333
+Bordeaux,,France,42.64705882
+Buenos Aires,,Argentina,54.84375
+Mexico City,,Mexico,69.59064327
+Tokyo,,Japan,37.94117647
+La Paz,La Paz Department,Bolivia,79.54545455
+Barcelona,Catalonia,Spain,51.31578947
+Makati,Metro Manila,Philippines,70.94594595
+Nagpur,Maharashtra,India,69.44444444
+Abidjan,,Cote d'Ivoire,79.41176471
+Abu Dhabi,Emirate of Abu Dhabi,United Arab Emirates,37.99019608
+Athens,Attica Region,Greece,30.31561462
+Caracas,Capital District,Venezuela,69.06779661
+Pune,Maharashtra,India,71.86147186
+Kochi,"""Kerala""",India,68.40278
+Lahti,"""Päijänne Tavastia""",Finland,14.28571
+Herat,"""Herat""",Afghanistan,31.25
+Changwon,"""South Gyeongsang""",South Korea,75
+Bharatpur,"""Bagmati""",Nepal,12.5
+Bad Ischl,"""Upper Austria""",Austria,50
+Ipoh,"""Perak""",Malaysia,50
+Sanandaj,"""Kurdistan Province""",Iran,83.33333
+Galle,"""Southern Province""",Sri Lanka,37.5
+Cuprija,,Serbia,65.625
+Wagga Wagga,"""New South Wales""",Australia,20
+Sylhet,"""Sylhet Division""",Bangladesh,53.33333
+Huancayo,"""Junin""",Peru,75
+Rangpur,"""Rangpur Division""",Bangladesh,62.5
+Narayanganj,"""Dhaka Division""",Bangladesh,93.75
+Karachi,"""Sindh""",Pakistan,83.1117
+Lahore,"""Punjab""",Pakistan,75.51546
